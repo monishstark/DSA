@@ -11,3 +11,4 @@ while l<r:
         l=mid+2
 print(nums[l])        
 #test
+#@local
