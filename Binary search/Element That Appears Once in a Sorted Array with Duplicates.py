@@ -10,3 +10,4 @@ while l<r:
     else:
         l=mid+2
 print(nums[l])        
+#test
